@@ -1,0 +1,28 @@
+{
+  "name": "gda_fer_s_01_react_furry_game",
+  "version": "1.0.0",
+  "description": "<img alt=\"Logo\" src=\"http://coderslab.pl/svg/logo-coderslab.svg\" width=\"400\">",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.5"
+  },
+  "devDependencies": {
+    "babel-loader": "^7.1.4",
+    "webpack": "^4.3.0",
+    "webpack-cli": "^2.0.13"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleksanderkakol/GDA_FER_S_01_REACT_Furry_Game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aleksanderkakol/GDA_FER_S_01_REACT_Furry_Game/issues"
+  },
+  "homepage": "https://github.com/aleksanderkakol/GDA_FER_S_01_REACT_Furry_Game#readme",
+  "keywords": []
+}
