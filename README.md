@@ -1,3 +1,4 @@
 # furryGame
-furry game
-https://aleksanderkakol.github.io/furryGame/
+Start here:
+
+[Here](https://aleksanderkakol.github.io/furryGame/)
